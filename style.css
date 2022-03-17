@@ -1,0 +1,90 @@
+#head{
+  padding-bottom: 5px;
+}
+
+#head a.active, #mobile-demo a.active{
+  color:#9c27b0 ;
+  font-weight: bold;
+}
+
+#headTitle{
+  margin: 100px auto;
+}
+
+#prospect{
+  margin: 10px auto;
+}
+
+#prospect .row, #about .row, #listen .row, .footer-copyright .row, #weDo .row, #innovation .row{
+ margin-bottom: 0px;
+}
+
+#about h3, #listen h6, #innovation h5{
+  margin: 0;
+  padding-top: 10px;
+}
+
+#aboutBack{
+  margin: 20px auto;
+}
+
+#aboutBack img{
+  width: 100%;
+  height: 300px;
+  border-radius: 50%;
+}
+
+#developer{
+  background: url("img/code.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#overlay, #overlayListen{
+  background: #4a148c82;
+  padding: 20px;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+}
+
+#langage{
+  padding: 20px 0;
+}
+
+#langage img{
+  width: 100%;
+  height: 100px;
+}
+
+#listen{
+  background: url("img/circuit.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#listentBtn{
+  margin-top: 30px;
+}
+
+#btnTest{
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+#innovation p.pHead{
+  margin: 0px;
+  padding: 10px 0px;
+  font-size: 12px;
+}
+
+#innovationContact{
+  margin: 50px auto;
+}
+
+#contact{
+  margin:20px auto;
+}
+
+#contact .lighten-2{
+  padding-bottom: 10px;
+}
